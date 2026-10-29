@@ -7,6 +7,7 @@ A dependency-free TypeScript teaching example for Bobby Hall Jr's article, “Yo
 Node >=22.18.0. No install or API key required.
 
 ```sh
+cd code
 npm test
 npm run demo
 ```
